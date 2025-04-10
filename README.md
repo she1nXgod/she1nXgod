@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+https://www.codewars.com/users/sheinXgod/badges/large
 <!--
 **she1nXgod/she1nXgod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
